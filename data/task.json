@@ -1,0 +1,123 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Gather Requirements",
+        "description": "Meet with the client to gather all necessary requirements for the website.",
+        "status": "completed",
+        "priority": "high",
+        "due_date": "2024-08-20",
+        "created_at": "2024-08-01",
+        "updated_at": "2024-08-20",
+        "assigned_to": 1,
+        "project_id": 1,
+        "comments": [
+          {
+            "id": 1,
+            "user_id": 1,
+            "content": "Requirements gathered and documented.",
+            "created_at": "2024-08-21"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Create Wireframes",
+        "description": "Design wireframes for the main pages of the website.",
+        "status": "in-progress",
+        "priority": "high",
+        "due_date": "2024-08-25",
+        "created_at": "2024-08-05",
+        "updated_at": "2024-08-22",
+        "assigned_to": 2,
+        "project_id": 1,
+        "comments": [
+          {
+            "id": 1,
+            "user_id": 2,
+            "content": "Homepage wireframe completed.",
+            "created_at": "2024-08-22"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Develop Frontend",
+        "description": "Implement the website frontend based on the approved designs.",
+        "status": "not-started",
+        "priority": "medium",
+        "due_date": "2024-09-10",
+        "created_at": "2024-08-10",
+        "updated_at": null,
+        "assigned_to": 3,
+        "project_id": 1,
+        "comments": []
+      },
+      {
+        "id": 4,
+        "title": "Develop Backend",
+        "description": "Set up the server, database, and integrate the backend with the frontend.",
+        "status": "not-started",
+        "priority": "high",
+        "due_date": "2024-09-15",
+        "created_at": "2024-08-15",
+        "updated_at": null,
+        "assigned_to": 4,
+        "project_id": 1,
+        "comments": []
+      },
+      {
+        "id": 5,
+        "title": "Content Creation",
+        "description": "Create and optimize content for all pages of the website.",
+        "status": "not-started",
+        "priority": "medium",
+        "due_date": "2024-09-05",
+        "created_at": "2024-08-20",
+        "updated_at": null,
+        "assigned_to": 5,
+        "project_id": 1,
+        "comments": []
+      },
+      {
+        "id": 6,
+        "title": "SEO Optimization",
+        "description": "Optimize the website for search engines, including meta tags, keywords, and performance improvements.",
+        "status": "not-started",
+        "priority": "low",
+        "due_date": "2024-09-20",
+        "created_at": "2024-08-25",
+        "updated_at": null,
+        "assigned_to": 6,
+        "project_id": 1,
+        "comments": []
+      },
+      {
+        "id": 7,
+        "title": "Testing & QA",
+        "description": "Test the website across different devices and browsers and fix any bugs.",
+        "status": "not-started",
+        "priority": "high",
+        "due_date": "2024-09-25",
+        "created_at": "2024-08-30",
+        "updated_at": null,
+        "assigned_to": 3,
+        "project_id": 1,
+        "comments": []
+      },
+      {
+        "id": 8,
+        "title": "Launch Website",
+        "description": "Deploy the website to the production server and make it live.",
+        "status": "not-started",
+        "priority": "high",
+        "due_date": "2024-09-30",
+        "created_at": "2024-09-01",
+        "updated_at": null,
+        "assigned_to": 1,
+        "project_id": 1,
+        "comments": []
+      }
+    ]
+  }
+  
